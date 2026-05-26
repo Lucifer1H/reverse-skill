@@ -40,3 +40,12 @@ skills/tool-index.json
 *.so
 *.dylib
 work/
+
+
+# Build artifacts
+burp-mcp-full/build/classes/
+burp-mcp-full/build/libs/
+burp-mcp-full/lib/
+*.class
+*.jar
+!burp-mcp-full/build/libs/burp-mcp-full.jar
