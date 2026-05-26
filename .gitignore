@@ -49,3 +49,6 @@ burp-mcp-full/lib/
 *.class
 *.jar
 !burp-mcp-full/build/libs/burp-mcp-full.jar
+
+skills/tool-index.md
+BOOTSTRAP.md
