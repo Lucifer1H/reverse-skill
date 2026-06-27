@@ -220,3 +220,7 @@ git clone https://github.com/zhaoxuya520/reverse-skill.git
 特别感谢 OLLVM 脱密生态的贡献者，以及所有为本仓库提供测试样本、提交 Issue 和 PR 的开发者。
 
 <p align="right">(<a href="#致谢">返回顶部</a>)</p>
+
+## 联系方式
+- **邮箱**：`ww7517437@gmail.com`
+- **X (Twitter)**：[@apivixtls](https://x.com/apivixtls)
